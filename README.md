@@ -37,7 +37,7 @@ VocaSense is a mobile scam call protection application designed to help elderly 
 </tr>
 <tr>
 <td align="center"><b>Welcome</b></td>
-<td align="center"><b>Login</b></td>
+<td align="center"><b>Signup</b></td>
 <td align="center"><b>Home</b></td>
 </tr>
 <tr>
